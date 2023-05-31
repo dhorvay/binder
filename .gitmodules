@@ -1,0 +1,3 @@
+[submodule "binder-datasets"]
+	path = binder-datasets
+	url = https://github.com/dhorvay/binder-datasets
