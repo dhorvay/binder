@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 !document-understanding-ebook/**/.ipynb_checkpoints
+
+.vscode/
